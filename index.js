@@ -155,7 +155,7 @@ function checkSefer(sefer) {
     });
 }
 
-var audio = new Audio('http://tastyspleen.net/~quake2/baseq2/sound/misc/firebell.wav');
+var audio = new Audio('https://www2.cs.uic.edu/~i101/SoundFiles/ImperialMarch60.wav');
 
 async function checkSpecificSeats(seferId, vagonSiraNo, trenAdi, binisTarih) {
     const body = {
